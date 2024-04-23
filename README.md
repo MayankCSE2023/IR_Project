@@ -1,6 +1,6 @@
-## Training the Model
+# Food Discovery and Recommender App
 
-# Training the Model
+## Training the Model
 
 1. **Dataset Preparation**: We gathered a dataset containing images of 56 different food classes. Each class has a variety of images. We ensured that the dataset was properly labeled and divided it into three parts: 70% for training, 15% for validation, and 15% for testing.
    
@@ -16,7 +16,7 @@
    
 7. **Model Evaluation**: Finally, we evaluated the trained model on the test set to obtain a final assessment of its performance.
 
-# Model Deployment and Classification
+## Model Deployment and Classification
 
 1. **Model Conversion**: After training, we converted the trained Keras model to TensorFlow Lite format. This step is crucial for deploying the model on mobile devices due to its reduced size and optimized inference capabilities.
    
