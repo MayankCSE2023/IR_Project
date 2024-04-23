@@ -31,3 +31,21 @@
 6. **Post-processing**: We processed the inference results as needed, such as mapping predicted class indices to class labels or filtering results based on confidence thresholds.
    
 7. **User Feedback**: Finally, we presented the classification results to the user within the Android app interface, potentially incorporating them into a recommendation system or providing further analysis based on the classification.
+
+## Recommender Systems
+
+A recommender system is a type of information filtering system that predicts the preferences or interests of users for items, such as movies, books, products, or music. Its primary goal is to provide personalized recommendations to users, helping them discover relevant content that they might be interested in.
+
+There are generally two main types of recommender systems:
+
+### Content-Based Filtering
+
+This method recommends items similar to those the user has liked in the past. It analyzes the attributes or features of items and suggests items with similar features. For example, if a user enjoys watching action movies, a content-based recommender might suggest other action movies based on similarities in genre, actors, directors, etc.
+
+### Collaborative Filtering
+
+This approach recommends items based on the preferences of other users. It identifies patterns of preferences among users and uses this information to make recommendations.
+
+
+YouTube Video Link : https://youtu.be/tLCx2NeKsHo
+GitHub Link : https://github.com/MayankCSE2023/IR_Project
